@@ -3,6 +3,9 @@ command-on-change
 
 Watch folders with Node script, run command on save
 
+`fs.watch` and `fs.watchFile` on each file/directory appears to be pretty expensive.
+Looking for a better method 
+
 
 Config file
 ===========
