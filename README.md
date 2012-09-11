@@ -15,7 +15,7 @@ of directories/files to skip
 
 Example
 =======
-
+`
   {
         "../project1/app"   : {
             "command"   : "../project1/sync.sh",
@@ -30,3 +30,4 @@ Example
             ]
         }
     }
+`
